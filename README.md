@@ -28,6 +28,6 @@ pip install numpy pandas matplotlib bagpy
 
 ## Clonar el repositorio:
 
-1. git clone [https://github.com/TU_USUARIO/trabajo_EFyP_Dayub_Mazzieri.git](https://github.com/TU_USUARIO/trabajo_EFyP_Dayub_Mazzieri.git)
+1. git clone [https://github.com/fedemazzieri04-create/trabajo_EFyP_Dayub_Mazzieri.git](https://github.com/fedemazzieri04-create/trabajo_EFyP_Dayub_Mazzieri.git)
 
 2. Asegurarse de tener los archivos .csv o el .bag de los datos reales en el directorio raíz.
